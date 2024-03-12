@@ -35,7 +35,7 @@
 			]
 		},
 		"right": {
-			"is_show": true,
+			"is_show": false,
 			"group": {
 				"name": "热点榜单",
 				"url": "https://www.fre123.com/news",
@@ -57,7 +57,7 @@
 		}
 	},
 	"pendant": {
-		"is_show": true,
+		"is_show": false,
 		"list": [
 			{
 				"icon_class": "fab fa-weixin",
@@ -90,7 +90,7 @@
 	},
 	"footer": {
 		"right": {
-			"is_show": true,
+			"is_show": false,
 			"list": [
 				{
 					"icon_class": "fas fa-comment-dots",
