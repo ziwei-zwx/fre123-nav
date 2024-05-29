@@ -553,8 +553,8 @@
 			{
 				"tab_name": "番剧资源",
 				"upper_right_corner": {
-					"title": "🔥FRE123动漫搜索引擎>>>",
-					"url": "https://www.fre123.com/anime/s"
+					"title": "盘搜pan-sou",
+					"url": "https://www.pan-sou.top/"
 				},
 				"details": [
 					{
@@ -563,7 +563,7 @@
 						"icon": "https://img.fre123.com/i/2023/11/25/65619e8022505.png",
 						"description": "FRE123 动漫搜索引擎为您提供各类动漫番剧在线观看下载资源，追番找动漫必备工具，还为您提供最新番剧时间表，直接搜索关键词即可找到对应的漫画番剧播放源。",
 						"suffix": true,
-						"is_show": true
+						"is_show": false
 					},
 					{
 						"title": "AGE 动漫",
@@ -781,8 +781,8 @@
 			{
 				"tab_name": "番剧下载",
 				"upper_right_corner": {
-					"title": "🔥FRE123动漫搜索引擎>>>",
-					"url": "https://www.fre123.com/anime/s"
+					"title": "盘搜pan-sou",
+					"url": "https://www.pan-sou.top/"
 				},
 				"details": [
 					{
@@ -878,8 +878,8 @@
 			{
 				"tab_name": "漫画阅读",
 				"upper_right_corner": {
-					"title": "🔥FRE123动漫搜索引擎>>>",
-					"url": "https://www.fre123.com/anime/s"
+					"title": "盘搜pan-sou",
+					"url": "https://www.pan-sou.top/"
 				},
 				"details": [
 					{
@@ -1137,8 +1137,8 @@
 			{
 				"tab_name": "动漫资讯",
 				"upper_right_corner": {
-					"title": "🔥FRE123动漫搜索引擎>>>",
-					"url": "https://www.fre123.com/anime/s"
+					"title": "盘搜pan-sou",
+					"url": "https://www.pan-sou.top/"
 				},
 				"details": [
 					{
@@ -1171,7 +1171,7 @@
 						"icon": "https://img.fre123.com/i/2023/11/25/65619e8022505.png",
 						"description": "FRE123 动漫搜索引擎为您提供各类动漫番剧在线观看下载资源，追番找动漫必备工具，还为您提供2024最新番剧时间表，直接搜索关键词即可找到对应的漫画番剧播放源。",
 						"suffix": true,
-						"is_show": true
+						"is_show": false
 					},
 					{
 						"title": "YuC's AnimeList",
