@@ -18,7 +18,7 @@
 						"icon": "https://img.fre123.com/i/2024/01/18/65a81a0370405.jpg",
 						"description": "FRE123 新闻热榜汇集各平台技术热点资讯，助您快速了解实时资讯",
 						"suffix": false,
-						"is_show": true
+						"is_show": false
 					},
 					{
 						"title": "FRE123 技术热榜",
@@ -27,7 +27,7 @@
 						"icon": "https://img.fre123.com/i/2024/01/18/65a819ea7d80f.jpg",
 						"description": "FRE123 技术热榜汇集各平台技术热点资讯，助您快速了解实时资讯",
 						"suffix": false,
-						"is_show": true
+						"is_show": false
 					},
 					{
 						"title": "FRE123 精选周刊",
@@ -36,7 +36,7 @@
 						"icon": "https://img.fre123.com/i/2024/01/18/65a81a125a343.jpg",
 						"description": "这是老胡储物柜为您收集的前后端技术周刊精选推荐信息流。这里提供技术思考、开发指南、编程实践，开源项目，架构探索以及最新的周刊信息流。深耕你的编程知识，提升你的技术实力",
 						"suffix": false,
-						"is_show": true
+						"is_show": false
 					},
 					{
 						"title": "微博热搜",
@@ -358,7 +358,7 @@
 						"icon": "https://img.fre123.com/i/2023/12/07/6570a33fcae2f.jpeg",
 						"description": "记录老胡每周看到的优质资源，包含项目、软件、资料、网站",
 						"suffix": true,
-						"is_show": true
+						"is_show": false
 					},
 					{
 						"title": "HelloGitHub",
