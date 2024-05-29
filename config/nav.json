@@ -558,14 +558,6 @@
 				},
 				"details": [
 					{
-						"title": "",
-						"url": "",
-						"icon": "",
-						"description": "",
-						"suffix": true,
-						"is_show": true
-					},
-					{
 						"title": "AGE 动漫",
 						"url": "https://www.agedm.org/",
 						"icon": "https://img.fre123.com/i/2023/11/25/6561b8413511a.png",
@@ -1134,12 +1126,6 @@
 					}
 				]
 			},
-			{
-				"tab_name": "动漫资讯",
-				"upper_right_corner": {
-					"title": "",
-					"url": ""
-				},
 				"details": [
 					{
 						"title": "Bangumi 番组计划",
@@ -1162,14 +1148,6 @@
 						"url": "https://www.acfun.cn/",
 						"icon": "https://img.fre123.com/i/2024/02/21/65d619ca74341.ico",
 						"description": "AcFun是国内首家弹幕视频网站，这里有全网独家动漫新番， 友好的弹幕氛围，有趣的UP主，好玩有科技感的虚拟偶像，年轻人都在用。",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "",
-						"url": "",
-						"icon": "",
-						"description": "",
 						"suffix": true,
 						"is_show": true
 					},
@@ -1792,38 +1770,6 @@
 						"suffix": false,
 						"is_show": true
 					},
-					{
-						"title": "",
-						"url": "",
-						"icon": "",
-						"description": "",
-						"suffix": false,
-						"is_show": false
-					},
-					{
-						"title": "",
-						"url": "",
-						"icon": "",
-						"description": "",
-						"suffix": false,
-						"is_show": false
-					},
-					{
-						"title": "",
-						"url": "",
-						"icon": "",
-						"description": "",
-						"suffix": false,
-						"is_show": false
-					},
-					{
-						"title": "",
-						"url": "",
-						"icon": "",
-						"description": "",
-						"suffix": false,
-						"is_show": false
-					}
 				]
 			},
 			{
